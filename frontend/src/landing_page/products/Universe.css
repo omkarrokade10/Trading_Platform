@@ -1,0 +1,12 @@
+.platform-logo {
+    width: 100px; /* Set a uniform width for all images */
+    height: 100px; /* Set a uniform height for all images */
+    object-fit: contain; /* Ensure images keep their aspect ratio */
+    margin-bottom: 10px; /* Consistent margin spacing */
+  }
+  
+  .text-center .col-4 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
